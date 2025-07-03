@@ -74,9 +74,9 @@ I'm Ozgur from Izmir, Turkiye.
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=freed0M13&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=freed0M13&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freed0M13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=freed0M13&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="156" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=freed0M13&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="156" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freed0M13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
