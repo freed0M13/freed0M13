@@ -1,14 +1,18 @@
 ###
 
-<h1 align="center">hello there 👋</h1>
+<h1 align="center">Hello There 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Ozgur from Izmir, Turkiye.<br><br>- 📓 Comp. Programming Student at İzmir University of Economics<br>- 🔧 I'm developing FiveM scripts as a hobby in [Swan Development](https://swan-development.tebex.io/)<br>- 🌱 I'm currently working on improving my skills in Java, C#, PHP, and JavaScript, and I'm really looking forward to learning much more.</p>
+I'm Ozgur from Izmir, Turkiye.
+
+- 📓 Comp. Programming Student at İzmir University of Economics<br>
+- 🔧 I'm developing FiveM scripts as a hobby in [Swan Development](https://swan-development.tebex.io/)
+- 🌱 I'm currently working on improving my skills in Java, C#, PHP, and JavaScript, and I'm really looking forward to learning much more.
 
 ###
 
@@ -44,7 +48,7 @@
 
 ###
 
-<h3 align="left">🛠 Socials</h3>
+<h3 align="left">🔗 Socials</h3>
 
 ###
 
@@ -65,7 +69,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 ###
 
